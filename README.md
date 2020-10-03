@@ -3,8 +3,10 @@ Face Mask Detection using Keras and pre-trained weights file. Run in Google Cola
 
 Open the file Face mask detection.ipynb file in colabs or anyother softwares to run.
    > If you want to get input from webcamera directly 
+   
    > Change "cap = cv2.VideoCapture('video.mp4')" into "cap = cv2.VideoCapture(0)"
-        >>>> *NOTE: This code will not run in GOOGLE COLABS* because It does not have access to directly use webcamera.
+   
+        > *NOTE: This code will not run in GOOGLE COLABS* because It does not have access to directly use webcamera.
         You can use jupyter notebook as alternative.
 
             Directly run all the code cell by cell
