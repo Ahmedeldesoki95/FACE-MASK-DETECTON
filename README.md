@@ -1,5 +1,6 @@
 # face_mask_detection
-Face Mask Detection using Keras and pre-trained weights file. Run in Google Colab for output
+Face Mask Detection using Keras and pre-trained file. Run direcctly for output.
+# for changes or need your images follow instructions below:
 
 Open the file Face mask detection.ipynb file in colabs or anyother softwares to run.
    > If you want to get input from webcamera directly 
