@@ -8,10 +8,14 @@ Open the file Face mask detection.ipynb file in colabs or anyother softwares to 
         You can use jupyter notebook as alternative.
 
 Directly run all the code cell by cell
-You can also add your image to folders and then copy the path of the image/ picure for exmple:*/content/sample_data/your_image.jpg*.
-replace your image path in the place of *input_image = cv2.imread("image.jpg")* to 
-*input_image = cv2.imread("/content/FACE-MASK-DETECTON/your_image_name.jpg or png based on file extensions")*
-Your image will be processed if you want to process a video follow same procedure.......
+
+  >You can also add your image to folders and then copy the path of the image/picure.
+  For exmple:*/content/sample_data/your_image.jpg*.
+  
+  
+  >replace your image path in the place of *input_image = cv2.imread("image.jpg")* to 
+  >*input_image = cv2.imread("/content/FACE-MASK-DETECTON/your_image_name.jpg or png based on file extensions")*
+  >Your image will be processed if you want to process a video follow same procedure.......
 
 
 
