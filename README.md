@@ -13,8 +13,14 @@ Directly run all the code cell by cell
   For exmple:*/content/sample_data/your_image.jpg*.
   
   
-  >replace your image path in the place of *input_image = cv2.imread("image.jpg")* to 
+  >replace your image path in the place of 
+  
+  *input_image = cv2.imread("image.jpg")* to 
+  
+  
   >*input_image = cv2.imread("/content/FACE-MASK-DETECTON/your_image_name.jpg or png based on file extensions")*
+  
+  
   >Your image will be processed if you want to process a video follow same procedure.......
 
 
